@@ -1,0 +1,2 @@
+Question 1:  Que fait l’algorithme 1 ?
+L'argorithme demande une variable et 
