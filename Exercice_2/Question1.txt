@@ -1,0 +1,6 @@
+Question 1: Que fait l'algorithme 1?
+
+L'algorithme 1 demande un entier à l'utilisateur. 
+Elle fait ensuite le modulo 2 de l'entier donné en passant le résultat à une variable. 
+Elle vérifie par la suite si le modulo vaut 0 ou 1. 
+Dans le cas que le résultat vaut 0 elle retourne Vrai et dans le cas qu'il vaut 1 elle retourne Faux.
