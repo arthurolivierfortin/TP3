@@ -1,25 +1,12 @@
-#include <stdio.h>
+#include "exercice1.h"
 
 
-void main(){
+int permutation(int a, int b, int c){
 
-    int a, b, c;
 
-    prinf("écrire la valeur de A\n");
-    scanf("%d", &a);
-
-    prinf("écrire la valeur de A\n");
-    scanf("%d", &b);
-
-    prinf("écrire la valeur de A\n");
-    scanf("%d", &c);
-
-    printf("%d","A =" a,"%d","B =" b,"%d","C =" c)
-    
     a = b;
     b = c;
     c = a;
 
-    printf("Après permutation :""%d","A =" a,"%d","B =" b,"%d","C =" c)
-
+    return a, b, c;
 }

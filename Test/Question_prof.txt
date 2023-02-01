@@ -1,0 +1,1 @@
+Je ne comprend pas l'utilité de faire un fichier .o, ici j'ai cimpiler directement maint.c pour faire TESR et le programme fonctionne
