@@ -1,3 +1,0 @@
-Question 1:  Que fait l’algorithme 1 ?
-L'argorithme demande une variable (n) et vérifie si n modulo 2 = 0
-Dans le cas qu'il égal à zéro, retourne 0

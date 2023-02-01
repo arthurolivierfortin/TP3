@@ -1,0 +1,1 @@
+int question_2(int n);
