@@ -1,9 +1,14 @@
 //Question 1
+#include <stdio.h>
+#include main.h
 
 
-int question_1(){
+int question_1(int n){
     
-    int n = input("Entrez un nombre entier");
+    int n;
+    
+    printf("Give me the value of x \n");
+    scanf("%d",&n);
 
 
     if (n = 0)
