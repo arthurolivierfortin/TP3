@@ -1,0 +1,7 @@
+Question 1: Que fait l'algorithme 2?
+
+l'algorithme demande un entier à l'utilisateur. (n)
+elle fait une boucle pour les i de 2 à n.
+À chaque boucle l'algorithme fera le produit du résultat * i.
+En bref, l'algorithme calculera le factorielle.
+Elle va retourner le résultat final
